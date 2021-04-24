@@ -1,0 +1,26 @@
+{
+  "name": "faunadb_js_importer",
+  "version": "1.0.0",
+  "description": "A step by step javascript/node data importer for Fauna DB, use this service inside or outside your application to import your data.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jxmedia/Faunadb_js_importer.git"
+  },
+  "keywords": [
+    "fauna",
+    "db",
+    "faunadb",
+    "fauna",
+    "import"
+  ],
+  "author": "Jxmedia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jxmedia/Faunadb_js_importer/issues"
+  },
+  "homepage": "https://github.com/Jxmedia/Faunadb_js_importer#readme",
+  "dependencies": {
+    "faunadb": "^4.2.0"
+  }
+}
