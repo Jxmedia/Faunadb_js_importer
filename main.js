@@ -8,7 +8,7 @@ const FaunadbImporter = () => {
   //
   // Step 01 - Input your FaunaDB Database Secret //
   //
-  const client = new faunadb.Client({ secret: process.env.GATSBY_FAUNA_DB });
+  const client = new faunadb.Client({ secret: "Your Secret Here" });
   //
   // Step 02 - Input your formatted data from Mr Data Converter so that each entry or potential document is an array //
   //
